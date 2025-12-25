@@ -19,7 +19,6 @@ Kullanılan Teknolojiler
 
 Ekran Görüntüleri
 ![Dashboard Ekran Görüntüsü](https://abonelik-yonetimi.vercel.app/screenshot.png) 
-*(Buraya projenin bir ekran görüntüsünü eklemen çok fark yaratır)*
 
 Canlı Demo
 Uygulamayı buradan inceleyebilirsiniz: [https://abonelik-yonetimi.vercel.app](https://abonelik-yonetimi.vercel.app)
